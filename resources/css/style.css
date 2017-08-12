@@ -21,7 +21,13 @@ h2 {
       text-align: center;
   }
 
-  p {
+  .bodyText {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+  }
+
+  .linkText {
     text-decoration: underline;
     color: aquamarine;
     font-size: 16px;
@@ -34,3 +40,9 @@ h2 {
   a:link {
       color: aquamarine;
   }
+
+  .bottom {
+    color: gray;
+    text-align: right;
+    text-decoration: none;
+}
