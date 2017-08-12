@@ -1,0 +1,25 @@
+html {
+  font-family: verdana;
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  }
+
+  body {
+      background-color: black;
+      text-align: center;
+  }
+
+  p {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+  }
+
+  a:visited {
+      color: aquamarine;
+  }
