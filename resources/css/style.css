@@ -23,3 +23,7 @@ h1 {
   a:visited {
       color: aquamarine;
   }
+
+  a:link {
+      color: aquamarine;
+  }
